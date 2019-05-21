@@ -3,7 +3,7 @@ Esto es un script que simplemente se encarga de *comprobar* el correcto funciona
 
 ### Requisitos
 Tener instalado el paquete **apache2**
-`apt-get install apache2`
+(Si no lo tienes instalado ejecuta como *root*: `apt-get install apache2`)
 
 ### Instrucciones
 
