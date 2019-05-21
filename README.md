@@ -7,6 +7,8 @@ Tener instalado el paquete **apache2**
 
 ### Instrucciones
 
+`git clone https://github.com/LuisaoStuff/Apache-Checker.git` < *Clonar este repositorio en tu máquina*
+
 `./Instalador.sh` < *Solo es necesario ejecutarlo una vez*
 
 `./Comprobar.sh` < *Cada vez que quieras comprobar el estado de Apache*
